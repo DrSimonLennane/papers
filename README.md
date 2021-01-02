@@ -1,7 +1,11 @@
 # papers
 Academic papers
 
+via Google Scholar: https://scholar.google.co.uk/citations?user=nbS3efcAAAAJ&hl=en
+
+
 Publications about Covid-19
+
 
 Deaths of NHS staff from Covid-19 analysed. Health Services Journal, 22/4/20. Cook T, Kursumovic E, Lennane S. 
 
